@@ -7,6 +7,6 @@ build and research experimental systems across spatial computing, multimodal int
 - **Research:** https://joenasriani.github.io/joe-research-registry/
 - **XR / Quest research:** https://joenasriani.github.io/joe-research-registry/quest-research.html
 - **Portfolio:** https://joenasriani.github.io/joenasr-portfolio/
-- **Identity:** https://joe-nasr-signals.vercel.app/v2/
+- **Identity:** https://joe-nasr-signals.vercel.app/
 
 Dubai / Lebanon
