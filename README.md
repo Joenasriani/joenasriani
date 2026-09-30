@@ -1,3 +1,9 @@
-# Work in progress
+# Joe Nasr
 
-This repository is unfinished and is not a current public profile or reference source.
+**Creative Director | Digital Experiences | Interactive Prototyping**
+
+Public repositories and technical work by Joe Nasr (Joseph Ribal Nasr), including interactive experiences, browser projects, WebXR, games and experimental software.
+
+Canonical public profile and work index: https://joe-nasr-signals.vercel.app/
+
+Professional profile: https://www.linkedin.com/in/joenasrprofile
